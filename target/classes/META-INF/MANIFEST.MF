@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: User
+Build-Jdk: 10.0.2
+Implementation-Title: SpringRest
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: me.salisuwy
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringRest/
+Created-By: Maven Integration for Eclipse
+
